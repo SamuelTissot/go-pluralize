@@ -1,3 +1,3 @@
-module github.com/gertd/go-pluralize
+module github.com/SamuelTissot/go-pluralize
 
 go 1.13
